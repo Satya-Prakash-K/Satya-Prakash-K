@@ -9,7 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satya-prakash-k&label=Profile%20views&color=0e75b6&style=flat" alt="satya-prakash-k" /> </p>
 
 
-
 - 🔭 I’m currently studying ** Btech ECE, At KL Unviersity**
 - 🌱 I’m interested in  ** Learning, Getting Experience **
 - 📝 I good at ** Projects, PCB Designing, Web Developing, Coding Skills**
@@ -44,14 +43,11 @@
    <img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="50px"/>
   <img src="https://img.icons8.com/color/64/000000/git.png" width="50px"/>
   <img alt="visual studio code" width="50px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />  
-  <img src="https://img.icons8.com/color/512/old-vmware-logo.png" width="50px" />
-  <img src="https://img.icons8.com/fluency/512/azure-1.png" width="50px" />
   <img src="https://img.icons8.com/color/64/000000/python--v1.png" width="50px" />
-   <img src="https://img.icons8.com/color/512/linux.png" width="50px" />
   
 </span>
 <hr>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=AVI-SHUKLA1110&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AVI-SHUKLA1110">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avi-shukla1110&" alt="avi-shukla1110">
+<img  src="https://github-readme-stats.vercel.app/api?username=Satya-Prakash-K&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Satya-Prakash-K">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satya-prakash-k&" alt="Satya-Prakash-K">
