@@ -4,16 +4,16 @@
 
 <h3 align="center"><u>ECE </u></h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/7x1_TZA-tlEAAAAC/computer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avi-shukla1110&label=Profile%20views&color=0e75b6&style=flat" alt="avi-shukla1110" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satya-prakash-k&label=Profile%20views&color=0e75b6&style=flat" alt="satya-prakash-k" /> </p>
 
 <p align="left"> <a href="https://twitter.comthetechnofeak" target="blank"><img src="https://img.shields.io/twitter/follow/thetechnofeak?logo=twitter&style=for-the-badge" alt="ashikla693" /></a> </p>
 
 - 🔭 I’m currently working on ** Development Projects**
 - 🌱 I’m currently learning **Smart Contract Security **
 - 📝 I regularly write articles on [https://avishukla693.hashnode.dev/](https://avishukla693.hashnode.dev/)
-- 💬 Ask me about **CTFs,linux,Web3**
+- 💬 Ask me about **CTFs,Linux,Web3**
 - 📫 How to reach me **ashikla693@gmail.com**
 
  
