@@ -8,19 +8,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satya-prakash-k&label=Profile%20views&color=0e75b6&style=flat" alt="satya-prakash-k" /> </p>
 
-<p align="left"> <a href="https://twitter.comthetechnofeak" target="blank"><img src="https://img.shields.io/twitter/follow/thetechnofeak?logo=twitter&style=for-the-badge" alt="ashikla693" /></a> </p>
 
-- 🔭 I’m currently working on ** Development Projects**
-- 🌱 I’m currently learning **Smart Contract Security **
-- 📝 I regularly write articles on [https://avishukla693.hashnode.dev/](https://avishukla693.hashnode.dev/)
-- 💬 Ask me about **CTFs,Linux,Web3**
-- 📫 How to reach me **ashikla693@gmail.com**
+
+- 🔭 I’m currently studying ** Btech ECE, At KL Unviersity**
+- 🌱 I’m interested in  ** Learning, Getting Experience **
+- 📝 I good at ** Projects, PCB Designing, Web Developing, Coding Skills**
+- 💬 Ask me about **PCB Desiging, Web Developing, Git and etc.,**
+- 📫 How to reach me **ksatyaprakash96@hotmail.com**
 
  
 <h3>Connect with Me!</h3>
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/abhishek-shukla-a549541b7/">
+<a href="https://www.linkedin.com/in/k-satya-prakash-523291239/">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/__avi_shukla__/">
