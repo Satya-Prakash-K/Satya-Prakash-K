@@ -1,4 +1,4 @@
-[![MasterHead](https://github.blog/wp-content/uploads/2021/06/GitHub-Bug-Bounty_for-social.png?resize=1800%2C630)](https://AVI-SHUKLA1110.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
 
 <h1 align="center">Hi 👋, I'm Satya Prakash Kattunga</h1>
 
