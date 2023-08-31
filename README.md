@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <h1 align="center">Hi 👋, I'm Satya Prakash Kattunga</h1>
 
@@ -50,3 +50,7 @@
 <p> <img src="https://github-readme-stats.vercel.app/api?username=satya-prakash-k&show_icons=true&theme=gotham" alt="satya-prakash-k" />
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satya-prakash-k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![](https://streak-stats.demolab.com?user=Satya-Prakash-K)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Satya-Prakash-K&theme=vue-dark)](https://git.io/streak-stats)
