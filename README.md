@@ -12,7 +12,7 @@
 - 🔭 I’m currently studying ** Btech ECE, At KL University**
 - 🌱 I’m interested in  ** Learning, Getting Experience **
 - 📝 I am good at ** Projects, PCB Designing, Web Developing, and Coding Skills**
-- 💬 Ask me about **PCB design, Web Developing, Git and etc.,**
+- 💬 Ask me about **PCB design, Web Developing, Git etc.,**
 - 📫 How to reach me **ksatyaprakash96@hotmail.com**
 
  
@@ -22,14 +22,8 @@
 <a href="https://www.linkedin.com/in/k-satya-prakash-523291239/">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/__avi_shukla__/">
+<a href="https://www.instagram.com/sa____t__ya/">
   <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
-</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100060197031639">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
-</a>&nbsp;&nbsp;
- <a href="https://twitter.com/ShadowJin_">
-  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
 </a>&nbsp;&nbsp;
 </p>
 
@@ -51,6 +45,28 @@
  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satya-prakash-k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://streak-stats.demolab.com?user=Satya-Prakash-K)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com?user=Satya-Prakash-K&theme=vue-dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Satya-Prakash-K&theme=vue-dark)](https://git.io/streak-stats)
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+
+</p>
+  <p align="center">
+    <a href="https://github.com/satya-prakash-k/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://github.com/satya-prakash-k/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+    </a>
+    <a href="https://codecov.io/gh/satya-prakash-k/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/satya-prakash-k/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/satya-prakash-k/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/satya-prakash-k/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+    </a>
