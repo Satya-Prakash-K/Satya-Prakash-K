@@ -47,7 +47,4 @@
   
 </span>
 <hr>
-
-<img  src="https://github-readme-stats.vercel.app/api?username=Satya-Prakash-K&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Satya-Prakash-K">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satya-prakash-k&" alt="Satya-Prakash-K">
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satya-prakash-k&show_icons=true&theme=gotham" alt="satya-prakash-k" />
