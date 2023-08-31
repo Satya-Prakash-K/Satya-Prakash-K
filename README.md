@@ -9,10 +9,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satya-prakash-k&label=Profile%20views&color=0e75b6&style=flat" alt="satya-prakash-k" /> </p>
 
 
-- 🔭 I’m currently studying ** Btech ECE, At KL Unviersity**
+- 🔭 I’m currently studying ** Btech ECE, At KL University**
 - 🌱 I’m interested in  ** Learning, Getting Experience **
-- 📝 I good at ** Projects, PCB Designing, Web Developing, Coding Skills**
-- 💬 Ask me about **PCB Desiging, Web Developing, Git and etc.,**
+- 📝 I am good at ** Projects, PCB Designing, Web Developing, and Coding Skills**
+- 💬 Ask me about **PCB design, Web Developing, Git and etc.,**
 - 📫 How to reach me **ksatyaprakash96@hotmail.com**
 
  
