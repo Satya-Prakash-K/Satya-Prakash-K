@@ -41,11 +41,11 @@
   
 </span>
 <hr>
-<img  src="https://github-readme-stats.vercel.app/api?username=satya-prakash-k&show_icons=true&theme=gotham"> </br>
+<img  src="https://github-readme-stats.vercel.app/api?username=satya-prakash-k&show_icons=true&theme=transparent"> </br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=satya-prakash-k&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=satya-prakash-k&theme=transparent">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satya-prakash-k&theme=gotham" alt="satya-prakash-k">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=satya-prakash-k&theme=transparent" alt="satya-prakash-k">
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
