@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+<img height="460" width="1000" src="https://miro.medium.com/v2/resize:fit:1400/1*yZ41P3YdMYMiyFPAPrzyGw.gif">
 
 <h1 align="center">Hi 👋, I'm Satya Prakash Kattunga</h1>
 
@@ -49,24 +49,3 @@
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-
-</p>
-  <p align="center">
-    <a href="https://github.com/satya-prakash-k/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/satya-prakash-k/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/satya-prakash-k/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/satya-prakash-k/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/satya-prakash-k/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/satya-prakash-k/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/satya-prakash-k/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/satya-prakash-k/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/satya-prakash-k/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/satya-prakash-k/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/satya-prakash-k/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/satya-prakash-k/github-readme-stats/badge" />
-    </a>
