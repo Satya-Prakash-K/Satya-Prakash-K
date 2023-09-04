@@ -1,4 +1,4 @@
-<img height="460" width="1000" src="https://miro.medium.com/v2/resize:fit:1400/1*yZ41P3YdMYMiyFPAPrzyGw.gif">
+<img height="450" width="1000" src="https://miro.medium.com/v2/resize:fit:1400/1*yZ41P3YdMYMiyFPAPrzyGw.gif">
 
 <h1 align="center">Hi 👋, I'm Satya Prakash Kattunga</h1>
 
