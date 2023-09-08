@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Satya Prakash Kattunga</h1>
 
-<h3 align="center"><u>ECE </u></h3>
+<h3 align="center"><u>ECE</u></h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/7x1_TZA-tlEAAAAC/computer.gif">
 
@@ -12,6 +12,7 @@
 - 🔭 I’m currently studying ** Btech ECE, At KL University**
 - 🌱 I’m interested in  ** Learning, Getting Experience **
 - 📝 I am good at ** Projects, PCB Designing, Web Developing, and Coding Skills**
+- 😎 Here [My Portfolio](https://github.com/Satya-Prakash-K/Satya-Prakash-K.git)  
 - 💬 Ask me about **PCB design, Web Developing, Git etc.,**
 - 📫 How to reach me **ksatyaprakash96@hotmail.com**
 
