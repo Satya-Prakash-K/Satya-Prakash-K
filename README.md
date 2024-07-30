@@ -20,7 +20,7 @@
 <h3>Connect with Me!</h3>
 <p align="center">
 <br/>
-<a href="https://www.linkedin.com/in/k-satya-prakash-523291239/">
+<a href="https://www.linkedin.com/in/k-satya-prakash/">
   <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sa____t__ya/">
