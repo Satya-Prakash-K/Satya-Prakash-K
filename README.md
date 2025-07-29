@@ -42,11 +42,10 @@
   
 </span>
 <hr>
-<img  src="https://github-readme-stats.vercel.app/api?username=Satya-Prakash-K&show_icons=true&theme=transparent" alt="satya-prakash-k"> </br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Satya-Prakash-K&theme=transparent" alt="satya-prakash-k">
+![Satya-Prakash-K's Stats](https://github-readme-stats.vercel.app/api?username=Satya-Prakash-K&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Satya-Prakash-K&theme=transparent" alt="satya-prakash-k">
+![Satya-Prakash-K's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-Prakash-K&theme=transparent&show_icons=true&hide_border=true&layout=compact)
 
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Satya-Prakash-K&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
