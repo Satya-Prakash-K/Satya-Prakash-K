@@ -46,17 +46,26 @@
   <img src="https://img.icons8.com/color/64/000000/python--v1.png" width="50px" />
   
 </span>
+
 <hr>
-<h5 align="center">
- 
-![Satya-Prakash-K's Stats](https://github-readme-stats.vercel.app/api?username=Satya-Prakash-K&theme=transparent&show_icons=true&hide_border=true&count_private=true)
 
-![Satya-Prakash-K's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-Prakash-K&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+<table align="center">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Satya-Prakash-K&theme=transparent&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-Prakash-K&theme=transparent&show_icons=true&hide_border=true&layout=compact" />
+    </td>
+  </tr>
 
-![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Satya-Prakash-K&theme=transparent&hide_border=true)
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-contributor-stats.vercel.app/api?username=Satya-Prakash-K&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" />
+      <br>
+      <img src="https://git-hub-streak-stats.vercel.app?user=Satya-Prakash-K&theme=transparent&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-![](https://github-contributor-stats.vercel.app/api?username=satya-prakash-k&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true)
-
-</h5>
-
-
+<hr>
