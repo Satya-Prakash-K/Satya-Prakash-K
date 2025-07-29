@@ -13,7 +13,7 @@
 - 🌱 I’m interested in  ** Learning, Getting Experience **
 - 📝 I am good at ** Projects, PCB Designing, Web Developing, and Coding Skills**
 - 😎 Here [My Portfolio](https://github.com/Satya-Prakash-K/Satya-Prakash-K.git)  
-- 💬 Ask me about **PCB design, Web Developing, Git etc.,**
+- 💬 Ask me about **PCB design, Web Developing, Git etc.**
 - 📫 How to reach me **ksatyaprakash96@hotmail.com**
 
  
