@@ -1,4 +1,4 @@
-<img height="500" width="1000" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzF5ZmNwbG5pNHV5OWFkNmphZGhkc202Z3d5YjF3YXp3em9vbGZpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtXRDVzaCPXSynUz7h/giphy.gif">
+<img height="450" width="1000" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzF5ZmNwbG5pNHV5OWFkNmphZGhkc202Z3d5YjF3YXp3em9vbGZpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jtXRDVzaCPXSynUz7h/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm SATYA PRAKASH KATTUNGA</h1>
 
