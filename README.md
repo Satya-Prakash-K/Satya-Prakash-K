@@ -64,7 +64,7 @@
     <td colspan="2" align="center">
       <img src="https://github-contributor-stats.vercel.app/api?username=Satya-Prakash-K&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true" />
       <br>
-      <img src="https://git-hub-streak-stats.vercel.app?user=Satya-Prakash&theme=transparent&hide_border=true" />
+      <img src="https://git-hub-streak-stats.vercel.app?user=Satya-Prakash-K&theme=transparent&hide_border=true" />
     </td>
   </tr>
 </table>
